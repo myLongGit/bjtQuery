@@ -1,0 +1,2864 @@
+{
+    "msg": "查询成功！",
+    "code": "100000",
+    "data": [
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤S",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤T",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤U",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤V",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤W",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤X",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤Y",
+                    "weight": 0
+                }
+            ],
+            "prefix": "粤",
+            "provinceName": "广东"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 0,
+                    "prefix": "京",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 6,
+                    "prefix": "京A",
+                    "weight": 0
+                }
+            ],
+            "prefix": "京",
+            "provinceName": "北京"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "津",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "津A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "津B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "津C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "津E",
+                    "weight": 0
+                }
+            ],
+            "prefix": "津",
+            "provinceName": "天津"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 0,
+                    "prefix": "沪",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 6,
+                    "prefix": "沪A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 6,
+                    "prefix": "沪B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 6,
+                    "prefix": "沪C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 6,
+                    "prefix": "沪D",
+                    "weight": 0
+                }
+            ],
+            "prefix": "沪",
+            "provinceName": "上海"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 0,
+                    "frameNumber": 6,
+                    "prefix": "渝",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "渝A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "渝B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "渝C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 0,
+                    "frameNumber": 6,
+                    "prefix": "渝D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 0,
+                    "frameNumber": 6,
+                    "prefix": "渝E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "渝F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "渝G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "渝H",
+                    "weight": 0
+                }
+            ],
+            "prefix": "渝",
+            "provinceName": "重庆"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀S",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "冀T",
+                    "weight": 0
+                }
+            ],
+            "prefix": "冀",
+            "provinceName": "河北"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "云S",
+                    "weight": 0
+                }
+            ],
+            "prefix": "云",
+            "provinceName": "云南"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "吉J",
+                    "weight": 0
+                }
+            ],
+            "prefix": "吉",
+            "provinceName": "吉林"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "宁A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "宁B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "宁C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "宁D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "宁E",
+                    "weight": 0
+                }
+            ],
+            "prefix": "宁",
+            "provinceName": "宁夏"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川S",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川T",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川U",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川V",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川W",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川X",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川Y",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "川Z",
+                    "weight": 0
+                }
+            ],
+            "prefix": "川",
+            "provinceName": "四川"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "新R",
+                    "weight": 0
+                }
+            ],
+            "prefix": "新",
+            "provinceName": "新疆"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "晋M",
+                    "weight": 0
+                }
+            ],
+            "prefix": "晋",
+            "provinceName": "山西"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "桂R",
+                    "weight": 0
+                }
+            ],
+            "prefix": "桂",
+            "provinceName": "广西"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "浙L",
+                    "weight": 0
+                }
+            ],
+            "prefix": "浙",
+            "provinceName": "浙江"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "湘U",
+                    "weight": 0
+                }
+            ],
+            "prefix": "湘",
+            "provinceName": "湖南"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "琼D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "琼E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "琼A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "琼B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "琼C",
+                    "weight": 0
+                }
+            ],
+            "prefix": "琼",
+            "provinceName": "海南"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "甘P",
+                    "weight": 0
+                }
+            ],
+            "prefix": "甘",
+            "provinceName": "甘肃"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "皖S",
+                    "weight": 0
+                }
+            ],
+            "prefix": "皖",
+            "provinceName": "安徽"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "苏N",
+                    "weight": 0
+                }
+            ],
+            "prefix": "苏",
+            "provinceName": "江苏"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "蒙M",
+                    "weight": 0
+                }
+            ],
+            "prefix": "蒙",
+            "provinceName": "内蒙古"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "藏A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "藏B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "藏C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "藏D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "藏E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "藏F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "藏G",
+                    "weight": 0
+                }
+            ],
+            "prefix": "藏",
+            "provinceName": "西藏"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫U",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "豫S",
+                    "weight": 0
+                }
+            ],
+            "prefix": "豫",
+            "provinceName": "河南"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "贵J",
+                    "weight": 0
+                }
+            ],
+            "prefix": "贵",
+            "provinceName": "贵州"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "赣L",
+                    "weight": 0
+                }
+            ],
+            "prefix": "赣",
+            "provinceName": "江西"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "辽P",
+                    "weight": 0
+                }
+            ],
+            "prefix": "辽",
+            "provinceName": "辽宁"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鄂S",
+                    "weight": 0
+                }
+            ],
+            "prefix": "鄂",
+            "provinceName": "湖北"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "闽J",
+                    "weight": 0
+                }
+            ],
+            "prefix": "闽",
+            "provinceName": "福建"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕V",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 99,
+                    "frameNumber": 6,
+                    "prefix": "陕A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "陕K",
+                    "weight": 0
+                }
+            ],
+            "prefix": "陕",
+            "provinceName": "陕西"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青O",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "青H",
+                    "weight": 0
+                }
+            ],
+            "prefix": "青",
+            "provinceName": "青海"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁U",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁V",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁P",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁Q",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁S",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "鲁Y",
+                    "weight": 0
+                }
+            ],
+            "prefix": "鲁",
+            "provinceName": "山东"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑L",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑R",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑A",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑B",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑C",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑D",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑E",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑F",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑G",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑H",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑J",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑K",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑M",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑N",
+                    "weight": 0
+                },
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 99,
+                    "prefix": "黑P",
+                    "weight": 0
+                }
+            ],
+            "prefix": "黑",
+            "provinceName": "黑龙江"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤Z",
+                    "weight": 0
+                }
+            ],
+            "prefix": "港",
+            "provinceName": "香港"
+        },
+        {
+            "cities": [
+                {
+                    "cityName": null,
+                    "engineNumber": 6,
+                    "frameNumber": 6,
+                    "prefix": "粤Z",
+                    "weight": 0
+                }
+            ],
+            "prefix": "澳",
+            "provinceName": "澳门"
+        }
+    ]
+}
