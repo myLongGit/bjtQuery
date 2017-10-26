@@ -77,7 +77,7 @@
                 </div>
             </div>
             <div class="search_btn">
-                <a><button id="search" class="search" onclick="query();">立即查询</button></a>
+                <a><button id="search" class="search" onclick="javascript:query();">立即查询</button></a>
             </div>
         </div>
     </div>
@@ -118,7 +118,7 @@
             },
             error:function(e){
                 alert("查询出现异常");
-                document.location.reload();
+                window.location.reload();
             }
         });
     }
@@ -220,7 +220,6 @@
             },
 
             success: function(data) {
-                pushHistory();
                 if(data.resultCode=='0'){
                     var _data = data.data;
                     var temp = "";
@@ -289,7 +288,8 @@
                         temp = "";
                     }
                     $("#searchDetail").show();
-                    //document.location.reload();
+                    pushHistory();
+                    //window.location.reload();
                 }
 
             },
