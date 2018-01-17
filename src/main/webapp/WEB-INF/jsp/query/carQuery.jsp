@@ -113,7 +113,7 @@
                     ChangeProvinceSelect(0);
                     ChangeCitiesSelect(0);
                 }else{
-                    alert("第三方服务器查询出现异常");
+                    alert(e.description);
                 }
             },
             error:function(e){
@@ -290,6 +290,8 @@
                     $("#searchDetail").show();
                     pushHistory();
                     //window.location.reload();
+                }else{
+                    alert(data.description);
                 }
 
             },
