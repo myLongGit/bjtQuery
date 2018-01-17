@@ -67,6 +67,8 @@ public class BjtQueryController {
                 rb.setDescription("SUCCESS");
                 rb.setData(arbRuleProvinceList);
             }else{
+                String errorMsg=jsonObject.optString("msg");
+                rb.setDescription(errorMsg);
                 rb.setResultCode("1");//出现异常
             }
             out = response.getWriter();
@@ -167,6 +169,9 @@ public class BjtQueryController {
             rb.setDescription("SUCCESS");
             rb.setData(trafficViolationList);
         } else {
+
+            String errorMsg=jsonObject.optString("msg");
+            rb.setDescription(errorMsg);
             rb.setResultCode("1");//出现异常
         }
 
